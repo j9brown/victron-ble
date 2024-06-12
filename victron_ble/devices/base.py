@@ -270,6 +270,9 @@ MODEL_ID_MAPPING = {
     0xA06F: "BlueSolar MPPT 150|45 rev2",
     0xA070: "BlueSolar MPPT 150|60 rev2",
     0xA071: "BlueSolar MPPT 150|70 rev2",
+    0xA0EC: "SmartLithium Battery 12V/160Ah",
+    0xA0EE: "SmartLithium Battery 24V/200Ah",
+    0xA0F0: "SmartLithium Battery 12V/330Ah",
     0xA102: "SmartSolar MPPT VE.Can 150/70",
     0xA103: "SmartSolar MPPT VE.Can 150/45",
     0xA104: "SmartSolar MPPT VE.Can 150/60",
@@ -375,6 +378,7 @@ MODEL_ID_MAPPING = {
     0xA3C7: "Orion Smart 48V|48V-6A Isolated DC-DC Charger",
     0xA3CF: "Orion Smart 48V|48V-8.5A Isolated DC-DC Charger",
     0x2780: "Victron Multiplus II 12/3000/120-50 2x120V",
+    0xC030: "SmartShunt IP65 500A/50mV",
 }
 
 
